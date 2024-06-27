@@ -1,5 +1,0 @@
-How are you feeling today = input ("How are you feeling today?")
-if input == "happy":
-    print(That's great to hear!")
-    elif input == "sad":
-    print ("I hope your day get's better!")
